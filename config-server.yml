@@ -7,7 +7,7 @@
 "state":null,
 "propertySources":[
 {
-"name":"",
+"name":"https://github.com/MicroServiceMPH/Cloud_File_Config_Server/blob/master/config-server.yml",
 "source":{
 	"welcome":"WELCOME MAI PHAT HUY"
 }
