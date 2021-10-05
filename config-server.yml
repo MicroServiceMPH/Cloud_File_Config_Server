@@ -1,16 +1,1 @@
-{
-
-"name":"config-server",
-"profiles":["default"],
-"label":null,
-"version":""
-"state":null,
-"propertySources":[
-{
-"name":"https://github.com/MicroServiceMPH/Cloud_File_Config_Server/blob/master/config-server.yml",
-"source":{
-	"welcome":"WELCOME MAI PHAT HUY"
-}
-}
-]
-}
+welcome:Mai Phat Huy config cloud
