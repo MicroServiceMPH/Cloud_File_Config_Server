@@ -1,3 +1,5 @@
+server:
+  port: 9003
 eureka:
   client:
     register-with-eureka:
